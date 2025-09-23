@@ -1,0 +1,414 @@
+﻿formid,NameofInputDistributionCenter,farmingseason,Date,Cluster_Unique_ID,State,Implementing_Partner,form/Inputs_for_maize/NPK_bags_to_Kg_Maize,form/Inputs_for_maize/UREA_bags_to_Kg_Maize,form/inputs_for_rice/NPK_bags_to_Kg_Rice,form/inputs_for_rice/UREA_bags_to_Kg_Rice,form/inputs_for_groundnut/NPK_bags_to_Kg_Groundnut,form/inputs_for_groundnut/UREA_bags_to_Kg_Groundnut,form/inputs_for_sorghum/NPK_bags_to_Kg_Groundnut,form/inputs_for_sorghum/UREA_bags_to_Kg_Groundnut,form/Input_totals/Total_Maize_Seed,form/Input_totals/Total_Rice_Seed,form/Input_totals/Total_Groundnut_Seed,form/Input_totals/Total_Sorghum_Seed,form/Input_totals/Totak_NPK,form/Input_totals/Total_UREA,form/Input_totals/Total_Glyphosate_ForceUP,form/Input_totals/Total_Butachlor,form/Input_totals/Total_AgriForce,form/Input_totals/Total_LaraForce,form/Input_totals/Total_SAAF,form/Input_totals/Total_GuardForce,form/Input_totals/Total_Atrazine,form/Input_totals/Total_VInash,form/Input_totals/Total_Lambda,form/Input_totals/Total_Aflasafe,form/Input_totals/Total_NPK_to_Kg,form/Input_totals/TotalUREA_to_Kg,form/Input_totals/Total_Glyspring,form/Input_totals/Total_Rice_pro,form/Input_totals/Total_Cotrazine,form/Input_totals/Total_Vanguish,form/Input_totals/Total_Striker,form/Input_totals/Total_Buster,form/Input_totals/Total_Hallakat,username
+697653a1-056b-4886-ba82-f2d15c4e6561,WOFAN Bauchi office,Wet_Season,2024-07-02,AlkT06C29,Bauchi,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,bau12
+5c166c7e-70fa-422c-b860-a3f1118b8b51,WOFAN Bauchi office,Wet_Season,2024-07-02,AlkWVXG47,Bauchi,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,bau12
+7dda3110-eefa-4cab-90d0-84700e5331b2,WOFAN Bauchi office,Wet_Season,2024-07-02,AlkNUP624,Bauchi,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,bau12
+19cb651a-b1da-42c2-aa2c-62285cebd739,WOFAN Bauchi office,Wet_Season,2024-07-03,BauCR2H09,Bauchi,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,bau12
+1c92884b-c72f-43dc-ad24-1c23e50922b9,WOFAN Bauchi office,Wet_Season,2024-07-03,BauHPGI27,Bauchi,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,bau12
+fca9bb2c-d639-46f9-bbb8-20f832733934,WOFAN Bauchi office,Wet_Season,2024-07-03,Bau5H3W05,Bauchi,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,bau12
+6522ed11-253b-442d-b5b7-4d619b9fbe67,WOFAN Bauchi office,Wet_Season,2024-07-03,BauZPDN06,Bauchi,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,bau12
+438dae25-1318-4b39-865e-d4dd56ee5cec,WOFAN Bauchi office,Wet_Season,2024-07-03,DasEYB746,Bauchi,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,bau12
+6a3505c2-aa45-4cf5-be8f-58327eef7b12,WOFAN Bauchi office,Wet_Season,2024-07-02,GanIWIQ39,Bauchi,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,bau12
+9f89ed5b-94ae-4b61-8fea-d2ca55fcbfea,WOFAN Bauchi office,Wet_Season,2024-06-02,NinNTHH47,Bauchi,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,bau12
+4ae0e4e8-db35-4138-a2a3-1fd4cd3cc0e8,WOFAN Bauchi office,Wet_Season,2024-07-02,NinUD5G00,Bauchi,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,bau12
+2f271b40-20c4-4649-91e1-481806cab108,WOFAN Bauchi office,Wet_Season,2024-07-03,TafLN0F48,Bauchi,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,bau12
+e0954e92-6b85-4b6f-b378-d2abf6c71325,WOFAN Bauchi office,Wet_Season,2024-07-04,AlkB24541,Bauchi,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,bau12
+d60f4fff-5c18-46fc-bb13-838667b0b201,WOFAN office zaria,Wet_Season,2024-07-09,IkaPL5248,Kaduna,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,1000,2,0,0,0,10,200,100,0,0,0,0,0,0,0,ika16
+43d2b6ae-9a28-46b5-a80d-24293d515c5d,WOFAN Zaria office,Wet_Season,2024-07-09,IkaVZBP17,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ika30
+e70e570b-d961-4f89-b2f5-153c1a75c76d,WOFAN Aujara women centre,Wet_Season,2024-07-06,JahJ7Q010,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+f9c428b8-d5b8-40b1-a462-6a4386066685,WOFAN Aujara women center,Wet_Season,2024-07-06,JahYIB038,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+11a8a803-5af8-48e8-96f6-0c2fdeff5a73,WOFAN Aujara women center,Wet_Season,2024-07-06,JahGUXY02,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+cbb15e5d-86c9-4f42-a03d-728ecda8a654,WOFAN Aujara women center,Wet_Season,2024-07-06,JahBJEC26,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+493eaeba-0001-473d-b06b-91d8487e1928,WOFAN Aujara women center,Wet_Season,2024-07-06,JahZM8719,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+5c3f78bf-8902-4c46-ada0-00988d93e97e,WOFAN Aujara women center,Wet_Season,2024-07-06,JahW9WX15,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+41fbede2-45ef-416a-a2f2-d563b0db0a4f,WOFAN Aujara women center,Wet_Season,2024-07-06,JahV17J37,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+5ca07c9e-9e8c-49cc-923b-7e97cb0053ef,WOFAN Aujara women center,Wet_Season,2024-07-06,JahT8K623,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+22309691-2b13-492e-925c-883e7d164192,WOFAN Aujara women center,Wet_Season,2024-07-06,Jah5PWF29,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+2d001c26-a2aa-4dd6-b121-2a661962113b,WOFAN Aujara women center,Wet_Season,2024-07-06,JahH1F212,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+572937ce-5696-44c5-94be-2c4d22a37f53,WOFAN Aujara women center,Wet_Season,2024-07-06,JahB2GF38,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+737fb9f5-d5f6-4ca9-ae05-f376a2d8cfe0,WOFAN Aujara women center,Wet_Season,2024-07-06,JahU7GA44,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+5df10d20-c37a-4583-bb29-93405f7fe56c,WOFAN Aujara women center,Wet_Season,2024-07-06,JahPV3N51,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+5e7c83e5-a4a6-44de-a58e-aecec2a450d5,WOFAN Aujara women center,Wet_Season,2024-07-06,JahLIN139,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+f139f338-0adc-4d31-b729-92d294ff8506,WOFAN Aujara women center,Wet_Season,2024-07-06,JahG1D413,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+cac9650c-b135-4dad-8582-0d02df2b95b4,successful,Wet_Season,2024-07-06,JahQEXX39,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+154c41df-5163-40e1-bfbb-e38ac691d74f,WOFAN Aujara women center,Wet_Season,2024-07-07,Jah8ZQD19,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+6a6761bf-1815-435d-ba6a-b975c5a40213,WOFAN Aujara women center,Wet_Season,2024-07-07,JahM0X706,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+d7632bf7-e3f6-4a72-8d82-de6f5443494e,WOFAN Aujara women center,Wet_Season,2024-07-07,JahQR1426,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+3134932d-a368-44e0-8024-50bd0a53a91c,WOFAN Aujara women center,Wet_Season,2024-07-07,Jah6F5B49,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+a5e5dec1-94a0-4ac3-b201-224c50b65934,WOFAN Aujara women center,Wet_Season,2024-07-07,JahXX8727,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+66877c6a-a671-4740-9edd-d7fbfe214d93,WOFAN Aujara women center,Wet_Season,2024-07-07,JahCV4P13,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+d5fde4b4-d442-4fc8-add0-679a91784d53,WOFAN Aujara women center,Wet_Season,2024-07-07,JahG7PI58,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+17162dc6-1905-4531-aafb-993b2dd54faf,WOFAN Aujara women center,Wet_Season,2024-07-07,JahO2FG25,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+4fe2bc18-58e7-4f3f-beb1-5d4aa5b16f01,WOFAN Aujara women center,Wet_Season,2024-07-07,JahS4TF23,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+64b49cba-2161-4f4f-9678-630985e20a5e,WOFAN Aujara women center,Wet_Season,2024-07-07,JahNB0D39,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+c09a8a1d-01d2-41ab-b293-a44e806663da,WOFAN Aujara women center,Wet_Season,2024-07-07,Jah8ZCH58,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+df3fb278-24ff-4e5b-a3c8-2a12ba305908,WOFAN Aijara women makeshift center,Wet_Season,2024-07-07,JahHZXD30,Jigawa,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,1000,0,0,0,0,10,200,100,0,0,0,0,0,0,0,jah60
+27acf1d2-7e95-4d5c-b110-6d0a329c20ac,WOFAN Aujara women center,Wet_Season,2024-07-07,JahZABZ00,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+e7318551-37e8-4fbb-910b-1b322cc3fa79,WOFAN Aujara women center,Wet_Season,2024-07-07,JahWWIW50,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+3c730313-6625-4758-a96e-49c9d838eef3,WOFAN Aujara women center,Wet_Season,2024-07-07,JahWG7L11,Jigawa,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,1000,2,0,0,0,10,200,100,0,0,0,0,0,0,0,jah60
+a822ba39-0051-42cd-bf5f-b6f20a15875c,WOFAN Aujara women center,Wet_Season,2024-07-07,JahS7FY17,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+98c2773a-498d-4745-ab62-931e1ac81e00,WOFAN Aujara women center,Wet_Season,2024-07-07,Jah3FSS00,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+d7495af0-9e0e-4f41-9081-7de17515dc82,WOFAN Aujara women center,Wet_Season,2024-07-07,JahDI2407,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+9d3e8740-7738-487b-90f5-3a31054cc60c,WOFAN Aujara women center,Wet_Season,2024-07-07,JahSEYG52,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+6393d2ec-8f82-406a-b3e8-30f484cb2483,WOFAN Aujara women center,Wet_Season,2024-07-07,JahWS1027,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+55227f24-a943-4395-ab11-0eaababf08c7,WOFAN Aujara women center,Wet_Season,2024-07-07,JahBLWN03,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+f912047a-b18c-43a6-b4d9-fac6f1fb0e07,WOFAN Aujara women center,Wet_Season,2024-07-07,JahD6PN18,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+56854a4d-e6e2-4196-9a40-1b0c48cfc716,WOFAN Aujara women center,Wet_Season,2024-07-07,JahLBW027,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+fe761532-47c2-48ca-a2b8-4645cf043342,WOFAN Aujara women center,Wet_Season,2024-07-07,JahVMNN27,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+cc9d9266-34e0-4bdc-be11-66d2bce97dc7,WOFAN Aujara women center,Wet_Season,2024-07-07,JahCJHI21,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+dadb9c97-a14e-469c-a74a-b8fef2eb8e81,WOFAN Aujara women center,Wet_Season,2024-07-07,JahJ09307,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+8ca4a756-f000-4e5b-b675-b51bd2af6839,WOFAN Aujara women center,Wet_Season,2024-07-07,JahXUJX01,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+ffad1a33-a5d9-4816-aa20-d381a40c255c,WOFAN Aujara women center,Wet_Season,2024-07-07,JahAUP033,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+50b88627-ab49-460a-b795-5c408ab562ba,successful,Wet_Season,2024-07-07,JahE4MC18,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+159ff76e-468d-45e0-875e-260164cf0163,WOFAN Aujara women center,Wet_Season,2024-07-07,JahAHEN19,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+ebfe65f8-d491-4333-9112-9440f2123b0e,WOFAN Aujara women center,Wet_Season,2024-07-07,Jah9YK615,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+68760a39-cf0c-4739-9bcb-cb90267f582c,WOFAN Aujara women center,Wet_Season,2024-07-07,JahNWTX49,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+28e4ff4e-60a7-497f-a468-7a859e5caa0a,WOFAN Aujara women center,Wet_Season,2024-07-07,JahWUDX32,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+16d9d238-8d01-4b24-b4cb-4adb7fa67534,WOFAN Aujara women center,Wet_Season,2024-07-07,JahEIPR34,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+2e4a47f2-8f82-43d0-a920-f2f215663cc0,WOFAN Aujara women center,Wet_Season,2024-07-07,JahIFLA55,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+db6e91e5-77ce-4f13-b7a8-48576890fdd1,WOFAN Aujara women center,Wet_Season,2024-07-07,JahW2B100,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+14a9c156-5c47-443d-9f90-fc49d08de9fa,WOFAN Aujara women center,Wet_Season,2024-07-07,JahHLBP50,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+75905807-6a32-4918-8b59-8dd86741c97f,WOFAN Aujara women center,Wet_Season,2024-07-07,JahIV9J39,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+0c0ab148-a150-465b-a66e-b517ccf112a0,WOFAN Aujara women processing center,Wet_Season,2024-07-07,JahRS2L51,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+ed1d0073-551d-460f-a4ef-97121d58a156,WOFAN Aujara women centre,Wet_Season,2024-07-07,JahCBHS27,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+c43533df-d6b5-4cd4-b563-a02c4377cb21,WOFAN Aujara women processing center,Wet_Season,2024-07-08,JahZT5P38,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+cb74b9fc-6838-4dc3-9a4a-cb16cdff9ad3,WOFAN Aujara women processing center,Wet_Season,2024-07-08,JahIAS924,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+83c50b44-ce61-494b-ac5d-95308a0f63ee,WOFAN Aujara women processing center,Wet_Season,2024-07-08,JahUPWL23,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+591de659-030f-4d52-83f9-634f262e0f20,WOFAN Aujara women processing center,Wet_Season,2024-07-08,Jah6KYV24,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+8079cb15-c12b-4128-9513-29f295857b1a,WOFAN Aujara women processing center,Wet_Season,2024-07-08,JahOG2L18,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+60002972-e84c-4d74-8668-2306995d2cf2,WOFAN Aujara women processing center,Wet_Season,2024-07-08,Jah7DN851,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+a5058450-5090-457f-b81b-67028d0b6067,WOFAN Aujara women processing center,Wet_Season,2024-07-08,JahSZKY29,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,0,200,150,0,0,0,0,0,0,0,jah60
+a1760ae1-2521-4037-97c8-6031c6b04abe,WOFAN Aujara women center,Wet_Season,2024-07-08,JahC0IT04,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,2,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+5c53e9db-1c9c-4c07-ad84-673b26002dcb,WOFAN Aujara women processing center,Wet_Season,2024-07-08,JahPD7G27,Jigawa,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,1000,2,0,0,0,10,200,100,0,0,0,0,0,0,0,jah60
+be517885-feb1-4b8b-a29a-28d9f8b853b5,WOFAN Aujara women processing center,Wet_Season,2024-07-08,JahLLJ421,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+095ea8e0-dbfd-4124-88a4-244d4baa258a,WOFAN Aujara women center,Wet_Season,2024-07-08,JahMJDG38,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+ca332d5d-bbdd-495d-8cc7-041057f4735f,WOFAN Aujara women processing center,Wet_Season,2024-07-08,JahT53W36,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+169d630a-1a21-43d0-bd18-0362a18b54e4,WOFAN Aujara women processing center,Wet_Season,2024-07-08,Jah3UFX38,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+c519645e-c9bb-44a3-a272-b403d7830ed6,WOFAN Aujara women processing center,Wet_Season,2024-07-08,JahFOE109,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+930722ef-177c-4110-9e55-2eb7f39102aa,WOFAN Aujara women processing center,Wet_Season,2024-07-08,JahBVLC25,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+5dd10dd1-fcc7-4644-b46c-5040414f876e,WOFAN Aujara women processing center,Wet_Season,2024-07-08,JahG89V55,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+4215b611-a6f1-4a6c-b34e-039f3028de67,WOFAN Aujara women processing center,Wet_Season,2024-07-08,JahORVC32,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+d3ea5627-ea62-4687-862b-427bfff0ebb5,WOFAN Aujara women processing center,Wet_Season,2024-07-08,Jah8B3P35,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+97d679e0-102c-4081-8a81-95ca8e38a3b1,WOFAN Aujara women processing center,Wet_Season,2024-07-08,JahY9R628,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+42f478fc-2400-4664-bb2f-d0d4b2141236,WOFAN Aujara women processing center,Wet_Season,2024-07-07,JahW13N01,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+ab85416a-d32c-4456-a9c9-ca9eff1f7102,WOFAN Aujara women processing center,Wet_Season,2024-07-07,Jah668F48,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+dbfdd34b-23c5-4e0a-bcdc-f8fbddb7abfe,WOFAN Aujara women processing center,Wet_Season,2024-07-07,JahWDFK23,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+66c4009b-65f0-4777-8287-8a740a35684f,WOFAN Aujara women processing center,Wet_Season,2024-07-07,JahYU5256,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+a7a86483-dbf5-4013-8895-e2a2eb2ea47e,WOFAN Aujara women processing center,Wet_Season,2024-07-07,JahDT8F48,Jigawa,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,1000,2,0,0,0,10,200,100,0,0,0,0,0,0,0,jah60
+04652b6e-bb34-4f9f-973d-854a3833d210,WOFAN Aujara women processing center,Wet_Season,2024-07-07,Jah0L4M33,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+56a71b1b-753e-4410-ba62-cdf440c338e5,WOFAN Aujara women processing center,Wet_Season,2024-07-07,JahUW4K11,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,0,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+82009be0-6584-43fa-a8c3-b60487552baf,WOFAN Aujara women processing center,Wet_Season,2024-07-07,JahO2FK54,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+acf70942-ab5b-4e32-b900-e6b05299f43d,WOFAN Aujara women processing center,Wet_Season,2024-07-07,Jah3C3Z58,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+4a1a417e-f54f-4b10-9174-9e43b665bdb6,WOFAN Aujara women processing center,Wet_Season,2024-07-07,Jah8QN741,Jigawa,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,1000,2,0,0,0,10,200,100,0,0,0,0,0,0,0,jah60
+f83f36bd-c468-49be-b5b8-576d806ce435,WOFAN Aujara women processing center,Wet_Season,2024-07-07,JahGNSG38,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+5d29996a-b1d7-468e-af1a-700bb120df69,WOFAN Aujara women processing center,Wet_Season,2024-07-07,JahNWWD21,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+0ea0f183-9906-46dd-ada4-0da48b7513a3,WOFAN Aujara women processing center,Wet_Season,2024-07-07,JahOZ9O32,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+a0b03336-42bd-488a-9899-09a4ef6461a6,WOFAN Aujara women processing center,Wet_Season,2024-07-08,JahGR7O09,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+eb8c2760-32c6-4113-986d-76ecc6ad2b0b,WOFAN Aujara women processing center,Wet_Season,2024-07-07,JahN57Z01,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+29667919-3d05-41ec-b10b-a0e2dd58ea43,WOFAN Aujara women processing center,Wet_Season,2024-07-07,JahOAPY40,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+a77a9d53-b657-4e6f-b078-877dcd33e4df,WOFAN Aujara women processing center,Wet_Season,2024-07-07,Jah7U7319,Jigawa,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,1000,2,0,0,0,10,200,100,0,0,0,0,0,0,0,jah60
+70af98c7-ae91-466c-970d-2be148170159,WOFAN Aujara women processing center,Wet_Season,2024-07-08,JahGWXD03,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+bbdc6aee-81a6-45c5-936c-8507a4d8ac6b,WOFAN Aujara women processing center,Wet_Season,2024-07-08,JahP1CZ40,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+7cd6d76c-6f4f-4715-bacc-6eedcc92b8a5,WOFAN Aujara women processing center,Wet_Season,2024-07-08,JahAECW25,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+a4f57152-f6c0-4b51-8660-eb376a94a4a7,WOFAN Aujara women processing center,Wet_Season,2024-07-08,Jah55QO15,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,jah60
+4c6bfa2a-a032-4d4f-ba2f-caf8466122d6,WOFAN Aujara women processing center,Wet_Season,2024-07-08,JahELGL56,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+ccb6c581-8d6b-4886-8379-6ea75197735f,WOFAN Aujara women processing center,Wet_Season,2024-07-08,JahG8JG39,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+6fc53631-8e12-4144-9f33-094ea53b474f,WOFAN Aujara women processing center,Wet_Season,2024-07-07,JahLWWA25,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+8aa75d66-9561-424b-ba2d-01bcd3aecf06,WOFAN Aujara women processing center,Wet_Season,2024-07-08,JahRBTN03,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+d4ab1337-d636-4787-9eaf-94c69ccda1ac,WOFAN Aujara women processing center,Wet_Season,2024-07-08,JahGCOR06,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+2a324abb-1b29-4e85-ab72-64e389f8e6b0,WOFAN Aujara women processing center,Wet_Season,2024-07-07,JahLZMK25,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+04e5e995-06d5-4ddd-a8a6-a3e88e3e6641,WOFAN Aujara women processing center,Wet_Season,2024-07-08,JahCXB137,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+35b3c5af-6bd6-4e11-a26c-0e9d23a4bdfe,WOFAN Aujara women processing center,Wet_Season,2024-07-07,Jah4CB633,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+f6b9c529-5046-4b2d-a9c6-83065b49bc56,WOFAN Aujara women processing center,Wet_Season,2024-07-08,JahFHIV18,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+71338385-0457-4e9f-818d-8957da0764b9,WOFAN Aujara women processing center,Wet_Season,2024-07-07,JahCEZC48,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+300e00f4-4307-44eb-8a70-6caa0c637d89,WOFAN Aujara women processing center,Wet_Season,2024-07-08,Jah2D5Y26,Jigawa,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,1000,2,0,0,0,10,200,100,0,0,0,0,0,0,0,jah60
+e1f64e66-9b21-4fff-a032-7a104adc99a9,WOFAN Aujara women processing center,Wet_Season,2024-07-07,JahKNLV08,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+b9404af6-0937-4f83-b080-058237985320,WOFAN Aujara women processing center,Wet_Season,2024-07-07,JahUNB934,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+df79d0c9-bcf7-4ab5-a458-af0791a60acc,WOFAN Aujara women processing center,Wet_Season,2024-07-07,JahCIM611,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+c6374164-ae57-4dd4-a419-7df75d6d86b9,WOFAN Aujara women processing center,Wet_Season,2024-07-07,JahI1VK43,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+1f1261ef-1efb-46b2-b3ae-04fffdaa62e4,WOFAN Aujara women processing center,Wet_Season,2024-07-08,Jah2QVX49,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,jah60
+6caecc5c-4127-4b1f-809a-ce66737d6a02,WOFAN Aujara women processing center,Wet_Season,2024-07-07,JahNTS457,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+d63ff9f7-e636-4703-941b-5d6c19d614b2,WOFAN Aujara women processing center,Wet_Season,2024-07-08,Jah56B539,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,jah60
+1e583dff-e24b-486d-879d-3dac5eedc85d,WOFAN Ikara women center,Wet_Season,2024-07-09,IkaO5UZ37,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ika36
+3a49acea-9ce5-4d85-bf26-0d1c1b60a745,WOFAN Ikara women center,Wet_Season,2024-07-09,IkaO6BR56,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ika36
+0e19016e-1d30-4e4a-bb3f-21c3bc8eb8f5,WOFAN Ikara women center,Wet_Season,2024-07-09,Ika846U02,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ika36
+7152d168-dfb9-43a2-a4de-9b46e5f86a49,WOFAN Dorawar sallau women center,Wet_Season,2024-07-02,RanB46Z34,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ran12
+52dffd84-f8c7-461a-a10f-1bb3404a13fc,WOFAN Dorawar sallau women center,Wet_Season,2024-07-02,Ran6NOH25,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ran12
+dfcf51ed-298b-4132-9929-8d6adab933ef,WOFAN Dorawar sallau women center,Wet_Season,2024-07-02,Gar2S7121,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,gmm54
+f5dd7541-3646-4302-b028-249f99332d4a,WOFAN Dorawar sallau women center,Wet_Season,2024-07-02,GarV22S29,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,gmm54
+a0396e80-dc9d-458e-b0f1-9018a83b3f1a,WOFAN Dorawar sallau women center,Wet_Season,2024-07-02,KurSD7D45,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,gmm54
+3f1be66e-a978-41c4-ba3e-5620aef905a5,WOFAN Dorawar sallau women center,Wet_Season,2024-07-02,Gar3XID10,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,kur07
+62333a8b-ae81-4ba7-8b42-ad4637a7ec54,WOFAN Dorawar sallau women center,Wet_Season,2024-07-04,KurZU5J41,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,kur07
+cae8022b-c58d-4e4c-ac16-10da08dc4847,WOFAN Dorawar sallau women center,Wet_Season,2024-07-04,GarNH0501,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,kur07
+5eb0cbc8-58e4-4b3d-860c-03eea28708b0,WOFAN Dorawar sallau women processing center,Wet_Season,2024-07-04,Kur0CVY16,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,kur12
+92258586-7f63-4c54-8520-c99fa34a4258,WOFAN Dorawar sallau women processing center,Wet_Season,2024-07-04,KurFCO249,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,kur12
+2ec03341-9846-4bc4-8c45-947e2c2ef77a,WOFAN Dorawar sallau women processing center,Wet_Season,2024-07-04,KurRRX842,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,kur12
+0bce4267-9500-491a-8c37-69382576e1e1,WOFAN Dorawar sallau women processing center,Wet_Season,2024-07-04,RanJ3FP27,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ran12
+e29dd232-c4a6-43ed-82f5-262f2b84c0d1,WOFAN Dorawar sallau women processing center,Wet_Season,2024-07-03,KurQJJ621,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,kur06
+f87db22a-6c72-4755-b490-c154a89d19ca,WOFAN Dorawar sallau women processing center,Wet_Season,2024-07-03,KurSP3726,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,kur06
+db0cedd0-7fd1-489b-9748-f0b63eded848,WOFAN Dorawar sallau women processing center,Wet_Season,2024-07-03,KurWE1K38,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,kur06
+e703e889-1a4a-42c2-8315-7c195d9aedcf,WOFAN ikraea women processing center,Wet_Season,2024-07-03,IkaEWDJ04,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ika15
+7a41f1e7-14ae-4f4e-bb08-b46368f0aa6a,WOFAN Dorawar sallau women processing center,Wet_Season,2024-07-03,KurOYU839,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,kur01
+859dc369-0821-4c72-9721-7dd372ad3572,WOFAN Dorawar sallau women processing center,Wet_Season,2024-07-03,KurEUFZ59,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,kur01
+662bda17-284e-43e4-97bb-06b96460a31e,WOFAN Dorawar sallau women processing center,Wet_Season,2024-07-04,GarH3JD10,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,kur01
+b28bfa25-cc02-41e5-8c73-94d99621ce51,WOFAN Dorawar sallau women processing center,Wet_Season,2024-07-04,Kur4GFU29,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,kur02
+d5f0ab12-fdb2-4850-ae48-4295c83c73ee,WOFAN Dorawar sallau women processing center,Wet_Season,2024-07-04,GarA0FH19,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,kur02
+606cd1bc-d944-4415-8d2c-609c2001e3aa,WOFAN Ikara women processing center,Wet_Season,2024-07-04,Ika4LW717,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ika25
+83553ca1-8cd2-4fc6-ad1d-b93dbe70d435,WOFAN ikara women processing center,Wet_Season,2024-07-04,Ika7XXR45,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ika25
+7c84b25a-5c02-423d-bf1f-11cf9f72f8e8,WOFAN ikara women processing center,Wet_Season,2024-07-04,Ika1B3J52,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,ika25
+502bbca6-25cb-4396-8ce4-1c08ea30dca0,WOFAN ikara women processing center,Wet_Season,2024-07-04,IkaK9HD02,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ika25
+eb65a387-6b35-42b0-aaa1-cd46eab9d62e,WOFAN Ikara women processing center,Wet_Season,2024-07-04,IkaHSZB33,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ika28
+e43019ab-cb3a-44de-afbe-76907cb209f5,WOFAN ikara women processing center,Wet_Season,2024-07-04,IkaJTIW25,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ika28
+4f38cb40-1d56-43ba-a267-59dc1f642401,WOFAN ikara women processing center,Wet_Season,2024-07-04,IkaU2V949,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ika28
+38061033-2a87-4e1e-b698-ca42817d899b,WOFAN Ikara women processing center,Wet_Season,2024-07-09,IkaXEHQ13,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,0,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ika17
+120e0f8f-a377-4433-82af-5168d900d00d,WOFAN Ikara women processing center,Wet_Season,2024-07-09,IkaZJ5M18,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ika18
+e0ea57e9-eb2b-466b-a5a9-97697af6cbf3,WOFAN Ikara women processing center,Wet_Season,2024-07-04,Ika450J55,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ika23
+1788dc0f-4099-4305-ba9d-3cb9a1bec6cc,WOFAN Ikara women processing center,Wet_Season,2024-07-09,IkaREEW34,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ika22
+c0a3e90c-ed50-409d-9b41-67e55f53c464,WOFAN ikara women processing center,Wet_Season,2024-07-09,IkaG9MU44,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ika11
+667f5a27-8424-463f-81ef-dd2f8efba57c,WOFAN Ikara women processing center,Wet_Season,2024-07-08,Ika28J354,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ika11
+ed024dc8-1a91-4023-ab2d-c09514ee918e,WOFAN Ikara women processing center,Wet_Season,2024-07-09,IkaJBTF37,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ika12
+a69692f9-f29f-4890-ba67-0775b53e7069,WOFAN Ikara women processing center,Wet_Season,2024-07-09,IkaHVSD26,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ika14
+d3d43d13-fd5d-41c2-bd03-0a37ccfffb3c,WOFAN Ikara women processing center,Wet_Season,2024-07-09,IkaSVAU46,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ika14
+9aeac9c2-3e45-4690-ab66-7e7445ff2133,WOFAN Ikara women processing center,Wet_Season,2024-07-09,IkaI7E105,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ika20
+694e6145-331c-4439-83c9-270666da9913,WOFAN Ikara women processing center,Wet_Season,2024-07-09,Ika7I5X25,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ika26
+385d8bff-d97d-4944-a2a6-6d5c80d7d891,WOFAN Ikara women processing center,Wet_Season,2024-07-09,IkaYFJL04,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ika26
+fac6aeba-1794-4776-99b2-a308dad4605c,wofan center,Wet_Season,2024-07-04,AkkV0BI47,Gombe,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,0,0,0,0,0,0,0,200,100,0,0,0,0,0,0,0,akk01
+bb3ef2da-901f-44ce-bc2a-613a242764dd,wofan center,Wet_Season,2024-06-27,Akk733313,Gombe,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,0,2,0,0,0,0,200,100,0,0,0,0,0,0,0,akk01
+dfe58d2b-5a69-4365-b5bc-f16bee706895,wofan center,Wet_Season,2024-06-27,AkkNVQV37,Gombe,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,0,2,0,0,0,0,200,150,0,0,0,0,0,0,0,akk01
+21958095-9be5-4787-83d7-e5830bfb8e22,wofan center,Wet_Season,2024-07-05,BilUK7429,Gombe,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,0,0,0,0,0,2,2,0,0,0,200,150,0,0,0,0,0,0,0,bill02
+7ba77506-8956-4497-83df-b7ac57941241,wofan center,Wet_Season,2024-07-06,Bil97GO48,Gombe,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,bill02
+c98228af-f5bf-4807-ba89-d259ce00a72e,Wofan center,Wet_Season,2024-07-05,BilDPZG44,Gombe,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,bill02
+8e2eff79-8328-4c62-91b1-b7ce8ba4d4a0,wofan center,Wet_Season,2024-07-03,Bil49IY53,Gombe,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,bill02
+013785e9-2bc0-49a0-b688-47032e678b3b,Wofan Center,Dry_Season,2024-07-02,TauI3IH39,Jigawa,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,0,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tau23
+1a5f45ea-7dd1-4e69-a79d-d99fe87bb764,wofan center,Dry_Season,2024-06-27,GarA6QB14,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,bun02
+2bf97624-47ae-41e5-bae0-9062aaba7324,good,Wet_Season,2024-07-02,GarGH6S11,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,20,200,100,0,0,0,0,0,0,0,bun02
+374fe0f5-3194-4b5c-a29b-d5245005e168,wofan center,Wet_Season,2024-07-05,GarKDBP53,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,0,0,0,0,10,200,150,0,0,0,0,0,0,0,bun03
+cc8d06b1-a6ab-41ff-839f-9418601dea69,Wofan Center,Dry_Season,2024-07-01,TauUA7F16,Jigawa,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tau23
+d308c9ab-019a-4f59-8bb8-6067a7b8762b,wofan center,Wet_Season,2024-07-08,BunY6P612,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,bun03
+e6883eb8-dfee-48ba-8657-071996e998f3,Wofan Center,Dry_Season,2024-07-01,Tau00T741,Jigawa,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tau23
+b14ba026-f30c-43c7-abe7-d6ae95d85215,good,Wet_Season,2024-07-14,GarEVZM47,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,0,200,150,0,0,0,0,0,0,0,bun03
+19329fc9-5277-484f-bba2-7fb4bf59ecbf,wofan center,Dry_Season,2024-06-27,Gar5J3M27,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,bun07
+fa3c78f5-81c2-47bf-a717-2fa38503456f,wofan center,Wet_Season,2024-07-03,GarYGMF11,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,2,0,0,0,200,150,0,0,0,0,0,0,0,bun07
+cf839075-6458-4146-9f24-052c7ba421b7,wofan,Wet_Season,2024-07-06,BunTL4829,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,4,0,0,2,2000,2,0,0,0,20,200,100,0,0,0,0,0,0,0,bun07
+a52b908b-0807-4b67-ace7-cd46cc0139e7,wofan center,Wet_Season,2024-07-04,GarQJKE22,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,bun18
+74c17ec0-4afe-4921-b5cd-d0d284e18a28,WOFAN Ikara women processing center,Wet_Season,2024-07-09,Ika9FIH59,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,1000,2,0,0,0,10,200,150,0,0,0,0,0,0,0,ika24
+10647078-0edb-4013-9853-46844dfe3be1,Wofan Centre,Dry_Season,2024-07-01,Beb6N2R11,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun23
+fd42cf95-3887-4440-a476-d210a1f2e87a,wofan center,Dry_Season,2024-07-05,Gar03E531,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,gmm66
+ff7c76d3-97b0-4476-8e10-9ab747c08734,good,Wet_Season,2024-07-04,GarU5TL19,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,gmm66
+5a44c849-125b-4d98-9399-12cdfb84b731,Wofan Centre,Dry_Season,2024-07-02,BebGFT931,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun23
+a32bb38b-65f6-4fdb-8161-cecb9b50e1f5,Wofan,Dry_Season,2024-07-01,BebYO9M13,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,2,0,0,0,200,100,0,0,0,0,0,0,0,tun23
+779ac635-e305-42c6-b7ac-a4c7e1c3584f,Wofan,Dry_Season,2024-07-02,TudTJO144,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun23
+ed572426-477c-4f15-a74d-79101eb80fea,Wofan,Dry_Season,2024-07-02,TudHEBM03,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun23
+300592d8-8847-40ce-9b53-6c5a4946d0d6,wofan center,Wet_Season,2024-07-02,GarWSWE06,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,gmm67
+c0379177-d484-4b7d-b731-6a77ad9811f9,wofan center,Wet_Season,2024-07-02,Gar2XRT18,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,gmm67
+4c4be940-9a13-44b7-9cc0-08ddd415efab,Wofan,Dry_Season,2023-07-02,TauG3R955,Jigawa,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tau23
+c0b964bc-53f2-4427-a300-a5b5edbfcbd7,good,Wet_Season,2024-07-04,GarT33B41,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,gmm67
+adb71a2c-c297-4696-b680-003c21012190,wofan,Wet_Season,2024-07-05,BebLFTQ31,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,kir01
+d6cfc8b9-0c1e-4b9c-8349-14120e6992e1,good,Wet_Season,2024-07-04,Beb2R3O12,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,kir01
+4062176b-3ae9-4200-849d-43c777f06f45,wofan,Wet_Season,2024-07-02,BebH9DF58,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,kir01
+8dc443ba-d6b9-4456-be87-9f58ef68dcd7,wofan,Wet_Season,2024-07-02,BebRMYP53,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,kir01
+8b15a118-68e2-4862-bb20-c4cb99fe0b36,wofan,Wet_Season,2024-07-03,KalOUWM20,Gombe,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,kal15
+d93d66e9-d8d8-468f-9e85-47c0836d66f9,good,Dry_Season,2024-07-02,Kal4J5G53,Gombe,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,kal15
+89bbb71f-c4e5-4be3-9dbc-e4e66bd7fc78,good,Wet_Season,2024-07-01,GarW4NB00,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,gmm69
+7360c750-6bd6-467d-841f-af197ba969ff,wofan center,Wet_Season,2024-07-02,GomS0MF33,Gombe,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,gom25
+f8b6d18b-21af-40ac-a773-51250734b6da,wofan center,Wet_Season,2024-07-05,Gom5JTU58,Gombe,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,gom25
+07911510-5328-46b1-b72c-2a54aec61c4d,wofan,Wet_Season,2024-07-04,GomL0HO23,Gombe,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,2,0,0,20,200,150,0,0,0,0,0,0,0,gom25
+235dccd9-171d-421c-8135-5502074e0e7b,good,Wet_Season,2024-07-06,Jah2P3O47,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,0,0,0,2,2000,2,2,0,0,20,200,150,0,0,0,0,0,0,0,jah60
+883b95cb-84bf-40f6-af99-e97ca7e2da75,Wofan,Dry_Season,2024-07-01,TudOIPV50,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun22
+3e4df2bb-03f7-4edc-89fa-a0d1d0bad7c9,Wofan,Dry_Season,2024-07-01,BebQ4HU51,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun22
+904d83cc-f867-4a1a-939a-6e9f155f3f56,Wofan,Dry_Season,2024-07-02,BebH60A19,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun22
+53fc1a71-bab4-46c0-9a40-5c778ffbcbb0,wofan,Wet_Season,2024-07-03,Ika25SB38,Kaduna,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,2,0,0,20,200,100,0,0,0,0,0,0,0,ika13
+75d3c55e-e5e5-4148-9241-f42c3ad055ca,Wofan,Dry_Season,2024-07-01,TauHLBO01,Jigawa,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tau23
+0ecc18f5-2fee-4561-b11d-0b1bfba8bb06,Wofan,Dry_Season,2024-07-01,Tau052826,Jigawa,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tau23
+19a2672e-974f-448a-8fe4-5a8a099619a4,Wofan,Dry_Season,2024-07-01,TauO4DV49,Jigawa,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tau23
+32460058-a18f-4914-aaae-6de55fa871d4,Wofan Center,Dry_Season,2024-07-02,Tau09V727,Jigawa,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tau23
+e9def9e9-6a4b-42a8-9999-ec05f3cf9b3f,Wofan,Dry_Season,2024-07-01,Tau6HWB20,Jigawa,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tau23
+7dff299c-39b1-4024-8720-0b5631a32717,wofan,Wet_Season,2024-07-03,IkaWYK416,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,ika35
+e1ed8be9-aa25-45aa-8fd5-7f58f3a6b2da,wofan,Wet_Season,2024-07-08,Ika0SSL57,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,2,0,0,20,200,150,0,0,0,0,0,0,0,ika35
+b8f7ee17-065b-46d6-8c64-2bdcc574423a,WOFAN,Dry_Season,2024-07-02,TudAN6142,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun21
+21e984f4-e850-49e0-87a1-145a9459b61a,wofan,Wet_Season,2024-06-27,IkaOHO155,Kaduna,WOFAN,200,200,---,---,---,---,---,---,50,,,,4,4,2,0,0,2,2000,2,0,0,0,20,200,200,0,0,0,0,0,0,0,ika35
+04ef67cb-51f7-4524-9430-bf298ca4b52d,WOFAN,Dry_Season,2024-07-01,Beb2H8V51,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun21
+9e4b5703-1dff-4018-93c5-a1371ccd9c24,wofan,Wet_Season,2024-07-08,Ika04AV40,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,ika35
+4949b451-266d-429e-a13d-d5255aa0266d,WOFAN,Dry_Season,2024-07-02,BebHQQI18,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun21
+9995f880-b792-4499-9051-c73667d20e98,WOFAN,Dry_Season,2024-07-02,Tau2D3Y50,Jigawa,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tau23
+1b7c0c62-7a58-4cc0-a642-06ecd42d970d,good,Wet_Season,2024-07-01,IkaSDP909,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,ika35
+a5d155d5-306b-48e1-8100-7790c0933298,good,Wet_Season,2024-07-03,Ika8OF026,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,ika35
+23e3d35f-fb36-4ee1-9319-d549304f3416,good,Wet_Season,2024-06-27,IkaNN8O39,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,ika35
+bc338282-2378-4316-b077-22b3536fd4d1,wofan,Wet_Season,2024-07-07,IkaYYHO12,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,ika35
+36fde143-c429-4d8f-b4ff-72dd6bbfa9bd,wofan,Wet_Season,2024-07-09,IkaPVYU15,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,ika35
+a332980d-8e53-4469-869f-4efceb3536d9,WOFAN,Dry_Season,2024-07-01,Tau3Q9V21,Jigawa,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tau23
+8d31c58d-bba3-403c-97a8-757fd2cad0c8,wofan,Wet_Season,2024-07-01,Ika772Q53,Kaduna,WOFAN,200,150,---,---,---,---,---,---,60,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,ika35
+0b670f74-a8b8-4af6-8f57-6f49db018cc1,WOFAN,Dry_Season,2024-07-01,BebIGDH57,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun20
+b51b011a-0b4f-4d72-929e-5fac2f0b3233,WOFAN CENTRE,Dry_Season,2024-07-01,Beb97JN49,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun20
+77620b1a-f5ef-4250-9f4f-3289314c8aef,WOFAN CENTRE,Dry_Season,2024-07-01,TudSDMA33,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun20
+59f7f734-025c-43f7-9c2f-196123a17eeb,WOFAN,Dry_Season,2024-07-02,TauVFWO49,Jigawa,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tau23
+7519c110-cbab-40e5-83c6-3edd057ac74f,WOFAN,Dry_Season,2024-07-02,TauOHDD02,Jigawa,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,5,200,100,0,0,0,0,0,0,0,tau23
+ea06efff-9d80-4e9f-9774-cc031e9fb5dd,wofan,Wet_Season,2024-07-05,Ika7TIW04,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,2,0,0,20,200,150,0,0,0,0,0,0,0,ika35
+a9b9d220-7156-4351-bcf8-1e63d2a785ff,wofan,Wet_Season,2024-07-06,IkaDWYQ02,Kaduna,WOFAN,200,200,---,---,---,---,---,---,50,,,,4,4,2,0,0,2,2000,2,0,0,0,20,200,200,0,0,0,0,0,0,0,ika35
+6e5d3afb-8b9e-48a3-a9e9-68f75298a963,wofan,Wet_Season,2024-07-03,Ika25SB38,Kaduna,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,20,200,100,0,0,0,0,0,0,0,ika35
+e8ce1909-8fbf-4aa7-be59-733311f87b06,WOFAN,Dry_Season,2024-07-02,TauALLJ28,Jigawa,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tau23
+d3d07f7b-6b28-4b14-b61b-8e59d8e9147b,WOFAN,Dry_Season,2024-07-01,BebVOPY37,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun19
+a1c75da9-2199-4620-91ec-f3c143396dff,WOFAN,Dry_Season,2024-08-14,BebIWQ104,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun19
+6535461a-aa42-4ea5-9868-914f8ba891ab,WOFAN,Dry_Season,2024-07-08,BebLBNF07,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun19
+ec6d7f8e-9414-4ede-a88e-7d52b6c489dc,WOFAN,Dry_Season,2024-07-01,BebDSW526,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,5,200,100,0,0,0,0,0,0,0,tun18
+38513335-bb99-4594-95d3-0ccf10aecd8d,WOFAN,Dry_Season,2024-07-16,BebXSW004,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun18
+33fc9797-af23-4f0d-a990-87a257ff0eee,WOFAN,Dry_Season,2024-07-01,TudQYFS08,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun18
+5b458bed-be47-417c-998c-1ace0a403e28,WOFAN,Dry_Season,2024-07-01,BebG4X115,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun14
+6691e702-c25c-47b2-b21a-59a49fc91dcf,WOFAN,Dry_Season,2024-07-01,BebYM9219,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun14
+c1e37969-d63c-46f2-a7f2-c95729f149ef,WOFAN,Dry_Season,2024-07-02,BebTYDM56,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun14
+84592a41-1e68-4f18-846f-9e3ec81174c3,WOFAN,Dry_Season,2024-07-02,TudWCVZ31,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun17
+53f6618b-dd1b-49dc-91e5-0c5d34354983,WOFAN,Dry_Season,2024-07-01,Tud5IMP55,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun17
+d99c6584-8a3f-46a0-899e-654c8a79dedf,WOFAN,Dry_Season,2024-07-02,BebXFR452,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun17
+68d72013-a093-47b3-aedf-b70c128ee66a,WOFAN,Dry_Season,2024-07-02,GarV1OT21,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun08
+29d3ddd4-14bd-4217-a2a1-59690ede1254,WOFAN,Dry_Season,2024-07-01,Tud0CH528,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun08
+7c344aa6-30f6-42cd-a5c8-5514a6f90818,WOFAN,Dry_Season,2024-07-02,BebUKFO59,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun08
+401ca21b-075a-4a29-af70-281ad4204647,WOFAN,Dry_Season,2024-07-02,Tud1BBG47,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun02
+73d5ab65-5c25-45a9-a7d8-83c796f72f49,WOFAN,Dry_Season,2024-07-02,TudE9PJ22,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun02
+59499c83-de36-4b7d-8258-9c65a6d1e656,WOFAN,Dry_Season,2024-07-12,TudVTGV01,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun02
+fc952fa7-2bc2-4102-8ef1-f26ac1669a92,WOFAN,Dry_Season,2024-07-06,TudZ9TC08,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun01
+6f45fd9f-eeec-4ee4-bed0-d11139989354,WOFAN center,Wet_Season,2024-07-06,AkkXBVT22,Gombe,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,akk01
+c5c159c8-0c3d-47ae-a27e-d46f6aef81c1,WOFAN center,Wet_Season,2024-07-06,GarSIBV21,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,bun02
+49fe9f94-cb42-4cb5-bf2a-69764043fc62,WOFAN center,Wet_Season,2024-07-06,GarH0HK19,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,bun02
+339a9c4d-5cb6-4949-9be4-27a61ed8ee8c,WOFAN center,Wet_Season,2024-07-06,BunUXB418,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,bun03
+9b04fe61-5530-465b-8208-a0dc0b54ca9a,WOFAN center,Wet_Season,2024-07-06,Bun0O2U32,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,bun03
+bd4f3ae1-9832-46df-bba3-e660470880d6,WOFAN center,Wet_Season,2024-07-06,GarYJW058,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,bun07
+db5de6f9-9a89-48b2-939e-0eb7dc860d45,WOFAN center,Wet_Season,2024-07-06,IkaR3KB19,Kaduna,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,ika35
+5f381113-fb18-4bb6-9c17-cd8385bd4087,WOFAN center,Wet_Season,2024-07-06,BebNG5D23,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir01
+7ad3f747-21fe-481a-9827-eba4733ebdc7,WOFAN center,Wet_Season,2024-07-06,KirMDUZ47,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir07
+7e9f7341-d355-4773-9c80-4926e3743917,WOFAN center,Wet_Season,2024-07-06,Kir9OP158,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir07
+96b8433b-c77f-457d-8fa7-a3299809e8ef,WOFAN center,Wet_Season,2024-07-06,KirZ3DT45,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir07
+a1718e7c-1500-49d7-a5eb-45d854a14da6,WOFAN center,Wet_Season,2024-07-06,BebSQII42,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir11
+6741821d-a665-40f3-8cf6-3f57884eec66,WOFAN center,Wet_Season,2024-07-06,Beb51AQ31,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir11
+48b004f8-7137-47ae-9d7f-c9d20a6eb2c9,WOFAN center,Wet_Season,2024-07-06,BebFH8D19,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir11
+588bd175-87c9-4630-8fca-cde76c25c5be,WOFAN center,Wet_Season,2024-07-06,Beb7QFE24,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir11
+14cfb4e3-dbe8-4e79-b7af-3651596b0b2e,WOFAN center,Wet_Season,2024-07-06,BebLB6O08,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir11
+f22eb658-608e-4f66-b058-68db222deef7,WOFAN center,Wet_Season,2024-07-06,BebPRC934,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir11
+b933abcb-30a5-4c33-8715-679aff8296f5,WOFAN center,Wet_Season,2024-07-06,KirF45B33,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir11
+b2cbaed1-a883-4683-8496-0507836d9fde,WOFAN center,Wet_Season,2024-07-06,KirZI5A01,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir11
+f168da44-4f39-4b29-9e06-505286ec1345,WOFAN center,Wet_Season,2024-07-06,Kir3HFP26,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir11
+84645a4d-3248-4e86-a550-880a00f7a8bc,WOFAN center,Wet_Season,2024-07-06,BebYHVT07,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir11
+d1e58e66-ba4f-4b0e-8d7d-da4d7eee92ce,WOFAN center,Wet_Season,2024-07-06,BebO6XI08,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir11
+1adc2356-fece-4352-9fb0-0568e6089520,WOFAN center,Wet_Season,2024-07-06,BebTOF239,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir11
+d205fe75-21ef-492e-bde8-c5dc38b8276a,WOFAN center,Wet_Season,2024-07-06,KirID9D45,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir11
+8d2caa2b-d8f9-4bc5-83a0-af86d7e7123a,WOFAN center,Wet_Season,2024-07-06,KirSW8J26,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir11
+0746e57e-2eaf-434d-8831-aac6a45e65ed,WOFAN center,Wet_Season,2024-07-06,KirZOVP30,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir11
+9a24ab7f-d590-4d78-a79b-7a8ef813f745,WOFAN center,Wet_Season,2024-07-06,Beb273A51,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,kir12
+92840b9b-e252-46e1-bb33-9b2cfff7235d,WOFAN center,Wet_Season,2024-07-06,Beb588305,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir12
+0f2a672c-befb-4cc7-bae6-93a3ddd4449e,WOFAN center,Wet_Season,2024-07-06,BebXDQP24,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,kir12
+d0006668-e34f-4439-9c22-2ffc1ac28c97,WOFAN center,Wet_Season,2024-07-06,BebS9OV38,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir12
+370ed6bf-c64a-4602-9a74-d3aee6c05392,WOFAN center,Wet_Season,2024-07-06,BebWNAC33,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir13
+dbc5b7c7-6522-48f1-a6f3-aa148692af8e,WOFAN center,Wet_Season,2024-07-06,Beb0IZF57,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir13
+5d9e0646-0692-4592-a18a-90b48d4c998a,WOFAN center,Wet_Season,2024-07-06,BebOR0E27,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir13
+5152ede7-75d1-4b0a-8940-bfedb004a77b,WOFAN center,Wet_Season,2024-07-06,BebOR0E27,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir15
+e2cc02f3-478f-4168-a250-363350be20ad,WOFAN center,Wet_Season,2024-07-06,BebZ6IO32,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir15
+f450785f-18fe-4b20-a366-c15bf5328f13,WOFAN center,Wet_Season,2024-07-06,Beb4VV239,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir15
+003216ef-102e-45ae-bc1b-12e68e090ce8,WOFAN center,Wet_Season,2024-07-06,BebIZCD34,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir15
+30ff025d-c848-4ac0-a691-ac3c9405a312,WOFAN center,Wet_Season,2024-07-06,KirXHDG20,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir16
+cdc226a5-4b57-4318-b8bf-1438114ec2cb,WOFAN center,Wet_Season,2024-07-06,KirYXIX49,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir16
+4c5d8430-5400-41e9-b8c2-6ea578d4d3e1,WOFAN center,Wet_Season,2024-07-06,Kir28CE27,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir16
+728f1a37-ca01-447b-92b2-8ba2308fce85,WOFAN center,Wet_Season,2024-07-06,Beb1QQR15,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir19
+796318cd-c9ff-4210-841d-a07225ca1f3a,WOFAN center,Wet_Season,2024-07-06,BebNX7Z05,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir19
+5598fac8-c6ce-4da0-b318-c684178b6fa3,WOFAN center,Wet_Season,2024-07-06,BebJMMM22,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir19
+5bcdd626-9208-4b48-af6f-85eb8757b489,WOFAN center,Wet_Season,2024-07-06,KirW4AA18,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir20
+bd50ae43-bed6-4793-81d6-5cfda8c85d39,WOFAN center,Wet_Season,2024-07-06,KirK3GQ20,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir20
+974667fb-a10d-4cb9-9f2b-f0a87f3aed4c,WOFAN center,Wet_Season,2024-07-06,BebIY7Y03,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir20
+45277563-0d80-4968-bff5-167f9aa1586a,WOFAN center,Wet_Season,2024-07-06,BebJGKF08,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir21
+b41f3b3c-92ab-465e-8347-a6cd98514d53,impressive,Wet_Season,2024-07-06,Beb7G9P25,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,5,200,150,0,0,0,0,0,0,0,kir21
+7be04928-43fd-4761-8f3d-36e1bfc3eaad,WOFAN center,Wet_Season,2024-07-06,BebKW9M08,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir21
+19febf98-8922-4dd2-a2c6-42d39228b4e4,WOFAN center,Wet_Season,2024-07-06,Beb2P7L35,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir22
+185158f6-8378-4ad0-8460-becbec802bc0,WOFAN center,Wet_Season,2024-07-06,BebB2N504,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir22
+be81fa39-6203-4439-8c9d-b5ee4268410e,impressive,Wet_Season,2024-07-06,Beb3BBV10,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kir22
+63a7b8f9-279b-478d-9a27-1027049c1ae4,WOFAN center,Wet_Season,2024-07-06,KurHX2C11,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kur02
+b7ae9699-1637-4bbd-b619-6624645beaef,WOFAN center,Wet_Season,2024-07-06,GarIBYB03,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,ran04
+544bdf73-7bee-4116-9ca1-e2aaaab5f48a,WOFAN center,Wet_Season,2024-07-06,Ran473O46,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,ran04
+edfa4415-54df-4b0d-9ad0-e8c20c7bd9cd,WOFAN center,Wet_Season,2024-07-06,GarXPEG20,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,ran05
+943104ee-5fce-44ee-858d-d1e7cc547f66,WOFAN center,Wet_Season,2024-07-06,GarN5H847,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,ran05
+e1d29949-2d92-4694-98cf-36bdd4fa61a5,WOFAN center,Wet_Season,2024-07-06,RimPLHJ09,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rig02
+586f282a-dd44-46fc-9ca0-ba8ab5058a30,WOFAN center,Wet_Season,2024-07-06,RimXSAD35,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rig02
+4d8d503d-3d4b-48c6-83e7-71844fcd867c,WOFAN center,Wet_Season,2024-07-06,RimK48U40,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rig02
+16bb7a96-3129-4e83-b748-a46fe02c3a40,WOFAN center,Wet_Season,2024-07-06,BagSZHI28,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rig02
+c8ff2545-b05c-4b5a-848f-92f79e3ae775,impressive,Wet_Season,2024-07-06,TofN59R47,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rig03
+9443ae59-ebc1-4e9d-b37f-29dab48f389a,WOFAN center,Wet_Season,2024-07-06,TofWBGM02,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rig03
+439aac2c-8258-45b0-bc42-b3d326373fc7,WOFAN center,Wet_Season,2024-07-06,TofH1WE18,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rig03
+ab912b5f-9fd6-4ae7-a5c2-92d7a0e47ebb,WOFAN center,Wet_Season,2024-07-06,TofI0RB13,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rig03
+0ffd3103-ad7b-478d-92ac-46a91c7e593b,WOFAN center,Wet_Season,2024-07-06,RimZTD033,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rig04
+50bfe37d-6199-4db5-9219-f4f59ef6435d,WOFAN center,Wet_Season,2024-07-06,RimQZIM59,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rig04
+cdb1b8dd-83ee-4d7c-bc87-65fe245e2d9e,WOFAN center,Wet_Season,2024-07-06,RimAMK931,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rig04
+2de68782-bd0d-473f-b290-085c58b9e626,WOFAN center,Wet_Season,2024-07-07,TofHSF310,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rig08
+371f9868-f4ce-4d0a-a743-3d6e01c1a512,WOFAN center,Wet_Season,2024-07-07,Tof7DYM44,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rig08
+72228e7d-dc67-4911-8d6b-76f6b7deedea,WOFAN center,Wet_Season,2024-07-07,TofZJLG55,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rig08
+15b5bc26-f7a5-4cf5-af2b-10ce92eea7a0,WOFAN center,Wet_Season,2024-07-07,RinPOSN13,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+9b8b8a34-347f-4888-9b49-b10d52b52449,WOFAN center,Wet_Season,2024-07-07,RinQW0X01,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+b9c24784-ca02-41a0-9802-2afaa24d405b,WOFAN center,Wet_Season,2024-07-07,RinJESA13,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+a3e7dc4a-1c11-4746-a2fd-64977c00ee8a,WOFAN center,Wet_Season,2024-07-07,RinZQE535,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+91a17e1d-3e95-4532-9056-e4872ef4f0ad,WOFAN center,Wet_Season,2024-07-07,RinYNXQ42,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+c4b158da-9806-47e3-adac-03416cf20f02,WOFAN center,Wet_Season,2024-07-07,RinMSPR51,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+88f19d25-c6eb-4cb4-bb73-719ce6e86213,WOFAN center,Wet_Season,2024-07-07,RinAW4L25,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+5e112a6d-1512-454f-bdc9-d844ab890960,WOFAN center,Wet_Season,2024-07-07,RinIL7W06,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+0fd6d921-65f9-4e62-916f-1985a462ff51,WOFAN center,Wet_Season,2024-07-07,RinOSF952,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+94d013b2-df6e-4fb7-a2b8-afd530b2d5a3,WOFAN center,Wet_Season,2024-07-06,RinBOU549,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+8f82c72b-0d9a-47de-9429-ac6cb6560cc2,WOFAN center,Wet_Season,2024-07-08,RinI8VK57,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+a0fdd142-c8c2-47b2-9ebf-18be32caf12b,WOFAN center,Wet_Season,2024-07-08,RinC4JJ46,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+5c66faac-58b4-4e35-af8f-25aa7c79e621,WOFAN center,Wet_Season,2024-07-08,RinRKCY54,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+26032bb5-9090-4434-8bcf-612ac4baedbd,WOFAN center,Wet_Season,2024-07-08,Rin8HHZ15,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+5e5bb054-d52f-469b-83f0-64608fb97604,WOFAN center,Wet_Season,2024-07-08,RinIGJI41,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+c62de270-9c12-4636-8234-e15339d4b57d,WOFAN center,Wet_Season,2024-07-08,Rin4LGT24,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+81a07d8d-a2b1-4571-8e2a-35cf428f374b,WOFAN center,Wet_Season,2024-07-08,RinWPUO06,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+838bc1e7-9e1e-47aa-97f7-1d02180c8c59,WOFAN center,Wet_Season,2024-07-08,RinA72Q43,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+b68e97bd-04a6-4317-954f-0751325bbfe0,WOFAN center,Wet_Season,2024-07-08,Rin065N16,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+61288149-418f-4e15-8d8f-f59a4d72266e,WOFAN center,Wet_Season,2024-07-08,RinP5YX00,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+f571049f-6c34-4172-a82d-3b9ce904aaf0,WOFAN center,Wet_Season,2024-07-08,RinAZD143,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+87fbcf22-aece-4052-ab94-2e4603103d6a,WOFAN center,Wet_Season,2024-07-08,RinE06S51,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+59fc747d-03c2-4c2f-a4b8-8050487493ae,WOFAN center,Wet_Season,2024-07-08,RinGYKD16,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+41676ac7-8a1f-41f9-85c6-83809ee70363,WOFAN center,Wet_Season,2024-07-08,RinP06Q19,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+9f1446a0-149d-4f06-8d39-e8459af8fa2d,WOFAN center,Wet_Season,2024-07-08,RinNEGS51,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+5ecb85c2-b3ac-4bee-af3e-8f6228c1bef2,WOFAN center,Wet_Season,2024-07-08,RinEIEQ39,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+c54209f3-7e34-43cb-a23d-54ad4265e02f,WOFAN center,Wet_Season,2024-07-08,RinYNBA29,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+190e8f2a-9c99-40e3-82fb-42db295dabd9,WOFAN center,Wet_Season,2024-07-08,RinPUS001,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin26
+e1ae2912-587e-419c-8b83-fc429511a48b,WOFAN center,Wet_Season,2024-07-08,RinSLNF22,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin28
+4aa91515-e641-44fd-a759-813e3fc7898f,WOFAN center,Wet_Season,2024-07-08,RinRAWM10,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin28
+dac3c90f-3b59-44ad-a402-abb7bca50345,WOFAN center,Wet_Season,2024-07-08,RinFAOY21,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin28
+7404def8-cf6c-4bc0-93ef-613e350f7f91,WOFAN center,Wet_Season,2024-07-08,Rin9AVV41,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin28
+33f21074-776f-4e2b-a643-8833fda8ad63,WOFAN center,Wet_Season,2024-07-08,RinQGFK12,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin28
+be1ce97a-80f4-4bc8-8682-96314a158754,WOFAN center,Wet_Season,2024-07-08,Rin84P129,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin28
+43c876d8-d4db-4da3-82ce-b71945e4828e,WOFAN center,Wet_Season,2024-07-08,Rin3HCD31,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin28
+06802b36-08b3-49d6-871d-3e97b577dc69,WOFAN center,Wet_Season,2024-07-08,RinPW0621,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin28
+392d83dc-f715-4e02-a2b6-41106259f676,WOFAN center,Wet_Season,2024-07-08,RinCKFO55,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin28
+a1e6c24a-73db-477e-90dc-2d279515ae9b,WOFAN center,Wet_Season,2024-07-08,RinIVOT20,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin28
+622c2b53-90ef-480e-a7ec-82c50738b07a,WOFAN center,Wet_Season,2024-07-08,RinQJZ427,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin28
+c6bfe68d-6ed9-4d8b-81b5-e20cbce4b4dd,WOFAN center,Wet_Season,2024-07-08,RinU5B642,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin28
+e2e46453-12ea-45fb-909a-bf557f183396,WOFAN center,Wet_Season,2024-07-08,RinP2YM14,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin28
+2dee0349-c1b5-403f-ad68-97bec9525252,WOFAN center,Wet_Season,2024-07-07,RinEKQ806,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin28
+2959e02a-c143-4f24-9c52-07706ff532c4,WOFAN center,Wet_Season,2024-07-08,Rin78EE24,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin28
+4535948a-9b3c-4edb-9d9a-c25acc518147,WOFAN center,Wet_Season,2024-07-08,RinCJOB07,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin28
+be635761-b28e-4c15-84bd-4f40a467ab7a,WOFAN center,Wet_Season,2024-07-08,Rin1QG022,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin28
+19f7b58e-1579-4bf5-9cbd-0f4086db3c16,WOFAN center,Wet_Season,2024-07-08,RinZRG657,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin28
+d65ae462-db76-45a7-b971-04f9fee4a071,WOFAN center,Wet_Season,2024-07-08,Rin024V13,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin28
+8b960d39-19e1-47d6-8ebf-21cd8b196b66,WOFAN center,Wet_Season,2024-07-08,RinQM3C33,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin28
+dd3372df-de5f-4309-b6b4-6ea9995866ef,WOFAN center,Wet_Season,2024-07-08,RinWYDP35,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin28
+dfe9aaed-bcc1-42e2-b50d-c6694dd22d8c,WOFAN center,Wet_Season,2024-07-08,RinWAP700,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin28
+9a59ba91-937b-4598-b77d-85132d922534,WOFAN center,Wet_Season,2024-07-08,Rin689Y24,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rin28
+0b0a9b15-1540-444e-8c7d-50a3ee20993f,WOFAN center,Wet_Season,2024-07-08,ShoX5OJ38,Gombe,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,sha04
+702f5b60-1206-4bfa-b06d-ffa69b492d96,WOFAN center,Wet_Season,2024-07-08,ShoRHVP21,Gombe,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,sha04
+e7ba0ea3-46a0-4479-ab0f-9488fe7913f5,WOFAN center,Wet_Season,2024-07-08,ShoQMZ721,Gombe,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,sha04
+79853f01-cbbe-4b81-b46a-ff842dd1bdf1,WOFAN center,Wet_Season,2024-06-08,TudGVA258,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,4,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun23
+a46062ea-c06c-4bea-b263-efa39236d9bb,wofan center,Wet_Season,2024-07-08,Gar7CV205,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,20,200,150,0,0,0,0,0,0,0,gmm61
+c5b1f5fe-6bac-4a93-a30e-344692af4f96,Wofan center,Wet_Season,2024-09-23,Gar7CV205,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,2,0,0,0,200,150,0,0,0,0,0,0,0,gmm61
+46af7976-3ea2-4e0f-81e8-6ce34ab7a62c,Wofan center,Wet_Season,2024-09-23,BagG1SW17,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rig04
+1dd94886-1d39-4712-a0a7-7de5ac462526,wofan center,Wet_Season,2024-09-23,BagBEDJ45,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rig04
+a2f9122e-02d0-4fe8-81ab-4962b79af622,wofan center,Wet_Season,2024-09-23,RimVM1I02,Kano,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,rig04
+0049d2a3-c04b-4a4b-9337-233ae4b45104,Wofan center,Wet_Season,2024-09-23,TauE29933,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,tau23
+4a6d6ae7-a7e0-41a2-9740-c69955e1c05c,wofan center,Wet_Season,2024-09-23,TauICK426,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,tau23
+5d81883f-f65a-4074-af12-64873d8fa770,wofan center,Wet_Season,2024-09-23,TauAMBK52,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,tau23
+1ec45ff3-d48c-40c6-8db7-bd15506ac1fa,wofan center,Wet_Season,2024-09-23,TauYIIO54,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,tau23
+2e48218d-8bda-4419-ac80-7a5ffa8b3d9e,wofan center,Dry_Season,2024-09-23,TauXGM829,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,tau23
+90e82e56-d208-4c80-8de6-6cdf31e81661,wofan center,Dry_Season,2024-09-23,Tau2XW929,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,tau23
+6d5487ab-b3db-4e82-a440-2db3a392e76f,wofan center,Wet_Season,2024-09-23,TauW2YT47,Jigawa,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,tau23
+75fcb05b-c45a-4036-8935-de68865be2bb,wofan center,Wet_Season,2024-09-23,TudY9WC18,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun01
+6e1c9ca6-c82c-4ebc-a7bb-935d2a98818c,wofan center,Wet_Season,2024-09-23,TudC10Q45,Kano,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,tun01
+e522fbf3-5009-48bb-9768-03ac05e48819,wofan center,Dry_Season,2024-09-23,AbaUKMF58,FCT,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,aba04
+373225bf-a965-4e7e-b9c6-bafa607aef67,wofan center,Dry_Season,2024-09-23,KwaRA2T06,FCT,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,kwl10
+781da2c2-e8ad-41f4-a513-d96e48be3de8,wofan center,Dry_Season,2024-09-23,Kwa6NAW25,FCT,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,kwl10
+aacedad5-184a-4ad5-98c4-fd9fc171c74b,wofan center,Wet_Season,2024-09-23,AbaGVGW51,FCT,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,aba03
+798b5785-0e0b-4f67-8b66-9a534d8aaa9b,wofan center,Wet_Season,2024-09-23,AbaN7K040,FCT,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,aba03
+7937f621-0e76-4c43-87f5-f7a151902751,wofan center,Wet_Season,2024-09-23,AbaV7KZ14,FCT,WOFAN,200,150,---,---,---,---,---,---,50,,,,4,3,2,0,0,2,2000,2,0,0,0,2,200,150,0,0,0,0,0,0,0,aba03
+1e3e1fe8-f63a-4818-8195-9bdd51628daa,wofan center,Wet_Season,2024-09-23,AbaRO0L35,FCT,WOFAN,200,100,---,---,---,---,---,---,50,,,,4,2,2,0,0,2,2000,2,0,0,0,2,200,100,0,0,0,0,0,0,0,aba03
